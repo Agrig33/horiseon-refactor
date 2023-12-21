@@ -6,7 +6,14 @@ This contains a code refactor of the Horiseon homepage, a marketing agency, to i
 ## Mock Up
 ![Alt Text](./assets/images/horiseon-screenshot.png)
 
-## Links
-![Link to website](https://agrig33.github.io/horiseon-refactor/)
-![Link to code repository](https://github.com/Agrig33/horiseon-refactor)
+## Link to Application
+(https://agrig33.github.io/horiseon-refactor/)
+
+## Link to Github Repository
+(https://github.com/Agrig33/horiseon-refactor)
+
+## References 
+(https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+(https://www.w3schools.com/css/css_align.asp)
 
