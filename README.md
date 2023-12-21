@@ -8,5 +8,5 @@ This contains a code refactor of the Horiseon homepage, a marketing agency, to i
 
 ## Links
 ![Link to website]()
-![Link to code repository]()
+![Link to code repository](https://github.com/Agrig33/horiseon-refactor)
 
