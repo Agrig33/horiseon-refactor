@@ -7,7 +7,7 @@ This contains a code refactor of the Horiseon homepage, a marketing agency, to i
 ![Alt Text](./assets/images/horiseon-screenshot.png)
 
 ## Link to Application
-https://github.com/Agrig33/horiseon-refactor
+https://agrig33.github.io/horiseon-refactor/
 
 ## Link to Github Repository
 https://github.com/Agrig33/horiseon-refactor
